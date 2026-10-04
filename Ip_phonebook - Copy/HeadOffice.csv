@@ -1,0 +1,95 @@
+#,Date,IP,Extension,CallerID,Employee ID,Phone Set Serial NO,Name,Position,Department(Division/Branch/Sub_branch),Brand &  Model,Configure(Done radio button) if not done then ON,Deliver (yes  or no radio button,Active redio button
+285,,172.19.65.213,900102,347020,1205,,Chairman's Secretariat,Chairman's SECRETARIAT,CHAIRMANS SECRETARIAT,Fanvil X303,Done,Yes,Active 
+286,,172.19.65.140,901101,347001,1707,,Managing Director & CEO,MD_SM,Senior Management,Fanvil X303,Done,Yes,Active
+287,,172.19.65.217,901102,347021,1193,,MD'S Secretariat,FEO_MD's SECRETARIAT,MD'S SECRETARIAT,Fanvil X303,Done,Yes,Active
+288,,172.19.105.205,901151,347012,86,,Mohammad Asadul Haque,SEVP & CTG Zonal head,Chittagong Zonal Head,Fanvil X303,Done,Yes,Active
+289,,172.19.62.201,901201,347004,1564,,Md. Rabiul Islam_AMD,AMD_SM,Senior Management,Fanvil X303,Done,Yes,Active
+290,,172.19.62.145,901202,347085,252,,Md. Hannan Hossain_AMD'S SECRETARIAT,EO_AMD's SECRETARIAT,AMD'S SECRETARIAT,Fanvil X303,Done,Yes,Active
+291,,172.19.62.144,901301,347005,1743,,Abdul Quaium Chowdhury_AMD,AMD_SM,Senior Management,Fanvil X303,Done,Yes,Active
+292,,172.19.62.147,901302,347086,903,,Pramit Kumar Das (AMD'S Secretariat),Officer_AMD'S SECRETARIAT,AMD'S SECRETARIAT,Fanvil X303,Done,Yes,Active
+293,,172.19.62.140,901501,347006,348,,Md. Altaf Hossain Bhuyan_DMD,DMD_SM,Senior Management,Fanvil X303,Done,Yes,Active
+294,,172.19.62.146,901502,347087,7017,,Abdullah Al Masud _SECRETARIAT DMD'S,TA_DMD's SECRETARIAT,DMD'S SECRETARIAT,Fanvil X303,Done,Yes,Active
+295,,172.19.100.150,901801,347003,1710,,CTO,SEVP & CTO,Senior Management,Fanvil X303,Done,Yes,Active
+296,,172.19.65.212,903101,347014,1374,,Sk. Towhedur Rahman_Board Division,FVP_BD,Board Division,Fanvil X303,Done,Yes,Active
+297,,172.19.58.210,904101,347015,1064,,S.m. Waliullah Hossain,FVP_HRD,Human Resources Division,Fanvil X303,Done,Yes,Active
+298,,172.19.58.211,904102,347186,1342,,Mazumdar Istiak Mahmud,FVP_HRD,Human Resources Division,Fanvil X303,Done,Yes,Active
+299,,172.19.101.180,908101,347026,48,,A. N. M. Mejbahul Hasan,SVP_AMLD,AML Division,Fanvil X303,Done,Yes,Active
+300,,172.19.101.181,909101,347027,1061,,Md. Feroj Chowdhury,AVP_ABD,Agent Banking Division,Fanvil X303,Done,Yes,Active
+301,,172.19.60.201,915101,347008,84,,Md. Masoodur Rahman,SEVP_BOD,Banking Operation Division,Fanvil X303,Done,Yes,Active
+302,,172.19.60.213,915102,347032,612,,Mr. Sankar Kumar Ghosh,VP_BOD,Banking Operation Division,Fanvil X303,Done,Yes,Active
+303,,172.19.101.206,915103,347091,1768,,Md. Shohel Rana,AVP_BOD,Banking Operation Division,Fanvil X303,Done,Yes,Active
+304,,172.19.101.208,915106,616327,1755,,Shihabul Hasan,SEO_BOD,Banking Operation Division,Fanvil X303,Done,Yes,
+305,,172.19.60.216,915107,616327,171,,Md. Habibur Rahman,EO_BOD,Banking Operation Division,Fanvil X303,Done,Yes,Active
+306,,172.19.96.201,920101,347030,1248,,Md. Sharif Al Kashem_Card Divison,EP_CD,Card Division,Fanvil X303,Done,Yes,Active
+307,,172.19.96.208,920102,616327,186,,Muhammad Mizanur Rahman_Card Divison,AVP_CD,Card Division,Fanvil X303,Done,Yes,Active
+308,,172.19.96.205,920121,616327,None,,Front_Desk_Card Divison,Front_Desk,Card Division,Fanvil X303,Done,Yes,Active
+309,,172.19.96.204,920201,616327,None,,Credit_Unit Card Divison,Credit_Unit,Card Division,Fanvil X303,Done,Yes,Active
+310,,172.19.96.207,920202,616327,None,,Operation_Business Card Division,Operation,Card Division,Fanvil X303,Done,Yes,Active
+311,,172.19.96.206,920203,616327,None,,Recovery_Card Division,Recovery,Card Division,Fanvil X303,Done,Yes,Active
+312,,172.19.96.33,920220,616327,None,,920220 Card Test,Card Tester,Card Division,Fanvil X303,Done,Yes,Active
+313,,172.19.60.212,921101,347009,580,,Mohammad Abdul Mannan_CAD,SEVP_CAD,Credit Administration Division,Fanvil X303,Done,Yes,Active
+314,,172.19.60.214,921104,616327,1569,,Abul Basar Muhammad Zakir Hossain_CAD,FVP_CAD,Credit Administration Division,Fanvil X303,Done,Yes,Active
+315,,172.19.60.215,921105,616327,524,,Md. Momen Miah_CAD,FAVP_CAD,Credit Administration Division,Fanvil X303,Done,Yes,Active
+316,,172.19.61.211,922101,347038,1754,,Jahangir Alam Fcma,EVP_CRMD,Credit Risk Management Division,Fanvil X303,Done,Yes,Active
+317,,172.19.61.213,922103,347039,164,,Md. Kamruzzaman  ,"VP, CRMD",Credit Risk Management Division,Fanvil X303,Done,Yes,Active
+318,,172.19.96.121,926101,347007,83,,Mohammad Shafiul Azam_DFID,EVP_DFID,Digital Financial Inclusion Division,Fanvil X303,Done,Yes,Active
+319,,172.19.96.202,926102,347041,900,,Liton Shaha,SO_DIFD,Digital Financial Inclusion Division,Fanvil X303,Done,Yes,Active
+320,,172.19.96.203,926121,347042,904 and 921,,BanglaPay Support,BanglaPay Support,Digital Financial Inclusion Division,Fanvil X303,Done,Yes,Active
+321,,172.19.63.210,930101,347013,1749,,Mohammad Aminul Haque,SEVP & CFO_FAD,Financial Administration Division,Fanvil X303,Done,Yes,Active
+322,,172.19.63.212,930102,347044,73,,Mahmud Hassan,FVP_FAD,Financial Administration Division,Fanvil X303,Done,Yes,Active
+323,,172.19.63.213,930105,347045,204,,Thahsin Ahemed,SEO_FAD,Financial Administration Division,Fanvil X303,Done,Yes,Active
+324,,172.19.63.218,930106,616327,1094,,Khaled Mahmood Chowdhury,SEO_FAD,Financial Administration Division,Fanvil X303,Done,Yes,Active
+325,,172.19.63.216,930109,616327,1451,,Md. Khalilur Rahman,SEO_FAD,Financial Administration Division,Fanvil X303,Done,Yes,Active
+326,,172.19.63.217,930111,616327,1667,,Md. Raisul Islam,FEO_FAD,Financial Administration Division,Fanvil X303,Done,Yes,Active
+327,,172.19.101.182,940101,347046,723,,Mr. Syed Hafij Ahmed,VP_GSD,General Services Division,Fanvil X303,Done,Yes,Active
+328,,172.19.101.188,940102,347047,69,,Mr. Mohammad Ziauddin Rony,VP_GSD,General Services Division,Fanvil X303,Done,Yes,Active
+329,,172.19.101.189,940109,347090,381 & 875,,General Services Division,FEO & Officer,General Services Division,Fanvil X303,Done,Yes,Active
+330,,172.19.59.211,960101,347017,1380,,Mr. A. H. M. Masud Murshed,EVP_ICCD,ICC Division,Fanvil X303,Done,Yes,Active
+331,,172.19.100.151,963101,347010,10,,Mr. Imtiaz Rahman,VP & Head of IT,IT,Fanvil X303,Done,Yes,Active
+332,,172.19.100.149,963102,347050,302,,Mr. Md. Arif Billah,FVP & ICT Operation,IT,Fanvil X303,Done,Yes,Active
+333,,172.19.100.49,963104,347051,410,,Mr. Mohammed Ashiqur Rahman Rifat,FAVP & ICT Support Admin,IT,Fanvil X303,Done,Yes,Active
+334,,172.19.100.212,963105,347052,55,,Mr. Hemayet Hossain,FAVP & BACH Incharge,IT,Fanvil X303,Done,Yes,Active
+335,,172.19.100.221,963107,347065,1334,,Mr. Md. Soleman Ali,FAVP & Database Admin,IT,Fanvil X303,Done,Yes,Active
+336,,172.19.100.214,963108,347053,1383,,Mr. Khandkar Rumanuzzaman,FAVP & CDS Admin,IT,Fanvil X303,Done,Yes,Active
+337,,172.19.100.213,963109,347054,12,,Mr. Alamgir Hossain,SEO & CBS,IT,Fanvil X303,Done,Yes,Active
+338,,172.19.100.217,963110,347055,218,,Mr. Ismail Hossen Sirajee,"SEO,CBS, OBU & E-GP",IT,Fanvil X303,Done,Yes,Active
+339,,172.19.100.111,963111,347130,613,,Mr. Md. Rakib-Ul-Haque_Network & Infrastructure,EO & Network ,IT,Fanvil X303,Done,,
+340,,172.19.100.249,963112,347131,748,,Md. Sharear Ferdush Sarzu,EO & MIS Reporting,IT,Fanvil X303,Done,Yes,Active
+341,,172.19.100.47,963114,347114,1079,,Joydev Chandra Ghosh,FEO & IT Data Center Support,IT,Fanvil X303,Done,Yes,Active
+342,,172.19.100.104,963115,347058,849,,Iftekher-IT,"SO, CCTV & Data Center",IT,Fanvil X303,Done,Yes,Active
+343,,172.19.100.215,963116,347059,954,,Mr. Nur Ahammad,FEO & CBS,IT,Fanvil X303,Done,Yes,Active
+344,,172.19.100.46,963117,347132,963,,Md. Zilani Hossain Chowdhury_ Network & Inf,FEO & Network,IT,Fanvil X303,Done,Yes,Active
+345,,172.19.100.218,963118,347066,1331,,Mr. Sanjay Kumar Saha_ICT Division,SEO &IT Security,IT,Fanvil X303,Done,Yes,Active
+346,,172.19.100.209,963121,347121,1273 & 7044,,IT_Service Desk,Service Desk,IT,Fanvil X303,Done,Yes,Active
+347,,172.19.100.234,963220,347231,1192,,Md. Raziul Islam_IT,FEO & Trade Finance,IT,Fanvil X303,Done,Yes,Active
+348,,172.19.100.116,963222,347061,None,,963222,Intern,IT,Fanvil X303,Done,Yes,Active
+349,,172.19.100.219,963223,347133,1466,,Mr. Mohammad Osman Gani,"SO,Payment system Admin & DBA Support",IT,Fanvil X303,Done,Yes,Active
+350,,172.19.100.216,963224,347063,1159,,Md. Jobayer Al Mahmud Ahad,Officer & Software Dev,IT,Fanvil X303,Done,Yes,Active
+351,,172.19.100.222,963225,347134,1039,,Mr. Molla Abdur Rashed,JO & Clearing,IT,Fanvil X303,Done,Yes,Active
+352,,172.19.100.235,963226,347232,1467,,Md. Asif Iqbal Mithun_SD,Officer & Software Dev,IT,Fanvil X303,Done,Yes,Active
+353,,172.19.100.236,963227,347135,1463,,Mr. Rifat Haider_IT,JO ,IT,Fanvil X303,Done,Yes,Active
+354,,172.19.100.10,963228,347062,1376,,Hossain Abedy (IT Security),AO & IT Security Unit,IT,Fanvil X303,Done,Yes,Active
+355,,172.19.100.223,963229,347233,1467,,Md. Rabiul Hasan_SD_IT,Officer & Software Dev,IT,Fanvil X303,Done,Yes,Active
+356,,172.19.100.224,963230,34734,1044,,Animes Mandal_IT(Bach),JO & Clearing,IT,Fanvil X303,Done,Yes,Active
+357,,pending,963555,347064,None,,963555,Unknown,IT,Fanvil X303,,,
+358,,172.19.57.210,964101,347016,39,,Mr. Md. Mazharul Hasan,SVP_ID,International Division,Fanvil X303,Done,Yes,Active
+359,,pending,964102,616327,91,,Mohammad Shah Kamal Sarker_ID,"VP,SWIFT & OBU _ID",International Division,Fanvil X303,,,
+360,,172.19.53.141,965101,347034,185,,Mr. Md. Islamul Haque,FVP_IBD,Islamic Banking Division,Fanvil X303,Done,Yes,Active
+361,,172.19.65.210,970101,347033,1770,,Mr. Mohammad Hemayet Ullah,VP_LD,Legal Division,Fanvil X303,Done,Yes,Active
+362,,172.19.65.218,970102,347125,1086,,Mr. Mohammad Tipu Sultan_Legal Division,EO_LD,Legal Division,Fanvil X303,Done,Yes,Active
+363,,172.19.59.210,972101,347035,1148,,Mr. Md. Nahiduzzaman Khan,FVP _MIS & CIB,MIS & CIB Division,Fanvil X303,Done,Yes,Active
+364,,172.19.101.183,975101,347036,779,,Mr. Md. Asadullahil Galib,FAVP_PRD,Public Relation Division,Fanvil X303,Done,Yes,Active
+365,,172.19.60.210,977101,347037,512,,Mr. Md. Shamim Hossain,FVP_RMD,Risk Management Division,Fanvil X303,Done,Yes,Active
+366,,172.19.65.214,978101,347011,1735,,Mr. Md. Rashed Akter,SEVP_RDD,Retail Distribution Division,Fanvil X303,Done,Yes,Active
+367,,172.19.65.220,978102,347072,632,,Ms. Shamima Akther,AVP_RDD,Retail Distribution Division,Fanvil X303,Done,Yes,Active
+368,,172.19.65.225,979101,347022,1156,,Mr. Md. Salah Uddin _SME,EVP_HO,Head Office,Fanvil X303,Done,Yes,Active
+369,,172.19.65.211,980101,347031,920,,Mr. Mohd Abul Kalam Azad,SEVP_SAMD,Special Asset Management Division,Fanvil X303,Done,Yes,Active
+370,,172.19.100.89,981101,347175,None,,SBAC Investment_MD &CEO,Unknown,Investment,Fanvil X303,Done,Yes,Active
+371,,172.19.101.184,982101,347018,1561,,Mr. Md. Saidur Rahman,Principal_TI,Training Institute,Fanvil X303,Done,Yes,Active
+372,,172.19.63.211,983101,347019,40,,Mr. Dewan Arifur Rahman,SVP_TD,Treasury Division,Fanvil X303,Done,Yes,Active
+373,,172.19.63.214,983102,616327,77,,Mr. Md. Saifur Rahman_TD,FVP_TD,Treasury Division,Fanvil X303,Done,Yes,Active
+374,,172.19.101.185,984101,347028,1617,,Mr. Mohammad Ataur Rahman,VP_TPU,Trade Processing Unit,Fanvil X303,Done,Yes,Active
+375,,172.19.101.187,984102,616327,318,,Mr. K. M. Shamsul Bari_TPU,FVP_TPU,Trade Processing Unit,Fanvil X303,Done,Yes,Active
+376,,172.19.101.186,984401,616327,460,,Mir Abdul Hye Siddique_TPU Export,FVP_TPU Export,Trade Processing Unit,Fanvil X303,Done,Yes,Active
+377,,172.19.57.213,923102,,1789,Q7D223A002370,Mr. N. M. Feroz Shah Rana,Corporate Banking,Corporate Business Banking Division,Fanvil X303,Done,Yes,Active
+378,,172.19.101.215,,,1611,Q7D223A000147,Ali Mohammad Nurul Huda,EVP,Corporate Business Banking Division,Fanvil X303,Done,No,Inactive
